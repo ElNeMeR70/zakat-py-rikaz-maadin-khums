@@ -1,0 +1,7 @@
+[project]
+name = "zakat-py-rikaz-maadin-khums"
+version = "1.0.0"
+description = "Rikaz Buried Treasure Khums (20%) & Ma'adin Mineral Calculator (حاسبة زكاة الركاز والمعادن والكنوز المستخرجة)"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Mahmoud ElNemer", email = "sultanelnemer@gmail.com" }]
